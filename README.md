@@ -1,8 +1,8 @@
 # Aprendizagem profunda - trabalho 2
 
-- Guilherme Barbosa
-- Rodrigo Ralha
-- Rafael Peixoto
-- João Carvalho
-- Diogo Ferreira
+- PG55946 Guilherme Barbosa
+- PG56005 Rodrigo Ralha
+- PG55998 Rafael Peixoto
+- PG55959 João Carvalho
+- PG55932 Diogo Ferreira
 
